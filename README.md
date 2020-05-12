@@ -5,6 +5,7 @@ Year: 2020
 Name: Ant Ki Bhook (Hunger of an ant)
 Version: 1
 Player: Single Player
+
 Description:
     The player tries to eat all the sugar cubes droping on the screen.
     With each sugar cube the ant consumes, the speed of the cubes droping
@@ -17,5 +18,7 @@ How to Play:
     Use left and right arrow key to move the ant either left or right.
 
 Image Courtesy: Gluster logo as ant
+
 Sound: Youtube free audio
+
 Author: Vivek Das
