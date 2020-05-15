@@ -56,7 +56,7 @@ my_img = pygame.image.load('gluster-ant-1.png')
 # Load drop image for game
 game_icon = pygame.image.load('gluster-ant-3.png')
 
-# Gmae icon for game window
+# Game icon for game window
 # Doesn't reflect in Fedora yet
 pygame.display.set_icon(game_icon)
 
